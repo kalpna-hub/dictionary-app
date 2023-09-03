@@ -75,7 +75,7 @@ export default function HomePage() {
             {loading ?
                 <>
                     <h1>Type a Word to Let me go,Pls</h1>
-                    <img src={img} alt="loading"></img>
+                  
                 </> : ""}
         </>
 
