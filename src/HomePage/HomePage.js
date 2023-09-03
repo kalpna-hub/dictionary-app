@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import home from './home.css'
-import img from '../assets/XOsX.gif'
 import { useSelector, useDispatch } from 'react-redux';
 import { addToHistory } from "../actions";
 
